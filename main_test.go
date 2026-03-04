@@ -4,6 +4,7 @@ import (
 	"testing"
 )
 
+// test
 func TestMaxInt(t *testing.T) {
 	a, b := 2, 7
 
